@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    background-image: url("../img/friendfinder.gif"); opacity: .8;
+    background-size: cover;
+}
+
+.jumbotron{
+  text-align: center;
+  background-color: black;
+  color: white;
+  border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    max-height: 30%;
+}
+
+.logo {
+    size: 60px;
+}
+/* .footer{
+    background-color: black;
+    color:white;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    bottom: 0;
+    bott
+} */
